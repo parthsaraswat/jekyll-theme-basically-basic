@@ -1,5 +1,5 @@
 # Theme Skin
-skin: steel # default, night, plum, sea, soft, steel
+skin: default # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -26,8 +26,10 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Fira Sans"
-    weights: "400,400i,600,600i"
+  - name: "Kanit"
+    weights: "400"
+  - name: "Arimo"
+    weights: "400"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
